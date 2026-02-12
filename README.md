@@ -1,2 +1,2 @@
 # automated-retail-data-warehouse-pipeline
-nterprise-grade project that designs and implements an end-to-end automated retail data warehouse and analytics pipeline. The system integrates ETL processes, dimensional data modeling, and business intelligence reporting to transform raw retail data into actionable insights for decision-making
+Proposed enterprise-level project focused on designing and implementing an end-to-end automated retail data warehouse and analytics pipeline. The project aims to build a scalable ETL architecture, apply dimensional data modeling principles, and deliver actionable business intelligence insights to support data-driven retail decision-making.
